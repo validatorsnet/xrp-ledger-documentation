@@ -4,6 +4,8 @@ metadataformat = "yaml"
 title = "XRP Ledger documentation"
 theme = "hugo-alabaster-theme"
 
+publishDir="docs"
+
 disqusShortname = ""
 googleAnalytics = ""
 

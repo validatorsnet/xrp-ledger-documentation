@@ -1,0 +1,37 @@
+baseurl = "https://docs.validators.network/"
+languageCode = "en-us"
+metadataformat = "yaml"
+title = "XRP Ledger documentation"
+theme = "hugo-alabaster-theme"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[params]
+	#name = "XRPL doc"
+	#description = "Documentation for the XRP Ledger."
+
+	github_user   = "validatorsnet"
+	github_repo   = "xrp-ledger-documentation"
+	github_banner = false
+
+	custom_css = []
+	custom_js  = []
+
+	highlightjs = "css/highlight.css"
+	favicon = "favicon.ico"
+
+[params.sidebar]
+	#logo = "favicon.ico"
+
+
+	github_button  = false
+	travis_button  = false
+	codecov_button = false
+	gratipay = ""
+
+	show_relations = false
+
+[params.footer]
+	copyright = "[validatorsnet](https://twitter.com/validatorsnet)"
+	show_powered_by = false

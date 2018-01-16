@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XRP Ledger documentation</title>
+    <link>https://docs.validators.network/</link>
+    <description>Recent content on XRP Ledger documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jan 2018 18:49:31 +0100</lastBuildDate>
+    
+	<atom:link href="https://docs.validators.network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://docs.validators.network/</link>
+      <pubDate>Tue, 16 Jan 2018 18:49:31 +0100</pubDate>
+      
+      <guid>https://docs.validators.network/</guid>
+      <description>On docs.validators.network, you will find resources related to the following topics:
+ How to run a validator Frequently asked questions  </description>
+    </item>
+    
+  </channel>
+</rss>
